@@ -1,0 +1,9 @@
+﻿Item,Low USD allowance,High USD allowance,Notes
+Enclosure and interlocks,600,1400,Indicative concept only; not vendor quotes
+"Keyed fixture, connectors, insulation",600,1600,Indicative concept only; not vendor quotes
+Low-voltage instrument / DAQ,350,1100,Indicative concept only; not vendor quotes
+Current-limited bench supply,250,800,Indicative concept only; not vendor quotes
+Controller / interfaces / E-stop,220,650,Indicative concept only; not vendor quotes
+"Calibration, assembly, spares",700,1800,Indicative concept only; not vendor quotes
+Laptop / PC (if required),0,900,Indicative concept only; not vendor quotes
+TOTAL,2720,8250,Excludes HV testing and certification
